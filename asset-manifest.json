@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/taiwan-realtime-weather-app/static/css/main.b5a2d84e.chunk.css",
-    "main.js": "/taiwan-realtime-weather-app/static/js/main.d64d4add.chunk.js",
-    "main.js.map": "/taiwan-realtime-weather-app/static/js/main.d64d4add.chunk.js.map",
+    "main.js": "/taiwan-realtime-weather-app/static/js/main.2ac46395.chunk.js",
+    "main.js.map": "/taiwan-realtime-weather-app/static/js/main.2ac46395.chunk.js.map",
     "runtime-main.js": "/taiwan-realtime-weather-app/static/js/runtime-main.01961f2f.js",
     "runtime-main.js.map": "/taiwan-realtime-weather-app/static/js/runtime-main.01961f2f.js.map",
     "static/js/2.1a2f905f.chunk.js": "/taiwan-realtime-weather-app/static/js/2.1a2f905f.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.01961f2f.js",
     "static/js/2.1a2f905f.chunk.js",
     "static/css/main.b5a2d84e.chunk.css",
-    "static/js/main.d64d4add.chunk.js"
+    "static/js/main.2ac46395.chunk.js"
   ]
 }
