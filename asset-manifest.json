@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/taiwan-realtime-weather-app/static/css/main.362938e2.chunk.css",
-    "main.js": "/taiwan-realtime-weather-app/static/js/main.a915f41d.chunk.js",
-    "main.js.map": "/taiwan-realtime-weather-app/static/js/main.a915f41d.chunk.js.map",
-    "runtime-main.js": "/taiwan-realtime-weather-app/static/js/runtime-main.f27daed9.js",
-    "runtime-main.js.map": "/taiwan-realtime-weather-app/static/js/runtime-main.f27daed9.js.map",
-    "static/js/2.cca7f552.chunk.js": "/taiwan-realtime-weather-app/static/js/2.cca7f552.chunk.js",
-    "static/js/2.cca7f552.chunk.js.map": "/taiwan-realtime-weather-app/static/js/2.cca7f552.chunk.js.map",
-    "static/js/3.437a635c.chunk.js": "/taiwan-realtime-weather-app/static/js/3.437a635c.chunk.js",
-    "static/js/3.437a635c.chunk.js.map": "/taiwan-realtime-weather-app/static/js/3.437a635c.chunk.js.map",
+    "main.js": "/taiwan-realtime-weather-app/static/js/main.f16ba3e0.chunk.js",
+    "main.js.map": "/taiwan-realtime-weather-app/static/js/main.f16ba3e0.chunk.js.map",
+    "runtime-main.js": "/taiwan-realtime-weather-app/static/js/runtime-main.6c8eee99.js",
+    "runtime-main.js.map": "/taiwan-realtime-weather-app/static/js/runtime-main.6c8eee99.js.map",
+    "static/js/2.5ce473bc.chunk.js": "/taiwan-realtime-weather-app/static/js/2.5ce473bc.chunk.js",
+    "static/js/2.5ce473bc.chunk.js.map": "/taiwan-realtime-weather-app/static/js/2.5ce473bc.chunk.js.map",
+    "static/js/3.59f43b1d.chunk.js": "/taiwan-realtime-weather-app/static/js/3.59f43b1d.chunk.js",
+    "static/js/3.59f43b1d.chunk.js.map": "/taiwan-realtime-weather-app/static/js/3.59f43b1d.chunk.js.map",
     "index.html": "/taiwan-realtime-weather-app/index.html",
     "service-worker.js": "/taiwan-realtime-weather-app/service-worker.js",
     "service-worker.js.map": "/taiwan-realtime-weather-app/service-worker.js.map",
     "static/css/main.362938e2.chunk.css.map": "/taiwan-realtime-weather-app/static/css/main.362938e2.chunk.css.map",
-    "static/js/2.cca7f552.chunk.js.LICENSE.txt": "/taiwan-realtime-weather-app/static/js/2.cca7f552.chunk.js.LICENSE.txt",
+    "static/js/2.5ce473bc.chunk.js.LICENSE.txt": "/taiwan-realtime-weather-app/static/js/2.5ce473bc.chunk.js.LICENSE.txt",
     "static/media/airFlow.93b49bb5.svg": "/taiwan-realtime-weather-app/static/media/airFlow.93b49bb5.svg",
     "static/media/cog.64eda1d3.svg": "/taiwan-realtime-weather-app/static/media/cog.64eda1d3.svg",
     "static/media/day-clear.8857a9c1.svg": "/taiwan-realtime-weather-app/static/media/day-clear.8857a9c1.svg",
@@ -35,9 +35,9 @@
     "static/media/refresh.e352fc8b.svg": "/taiwan-realtime-weather-app/static/media/refresh.e352fc8b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f27daed9.js",
-    "static/js/2.cca7f552.chunk.js",
+    "static/js/runtime-main.6c8eee99.js",
+    "static/js/2.5ce473bc.chunk.js",
     "static/css/main.362938e2.chunk.css",
-    "static/js/main.a915f41d.chunk.js"
+    "static/js/main.f16ba3e0.chunk.js"
   ]
 }
