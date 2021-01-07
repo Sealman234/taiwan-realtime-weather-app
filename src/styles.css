@@ -1,6 +1,6 @@
-/* STEP 1: import normalize.css
-  https://unpkg.com/browse/normalize.css@8.0.1/normalize.css 
-*/
+@import-normalize; /* bring in normalize.css styles */
+
+/* rest of app styles */
 
 html,
 body {
